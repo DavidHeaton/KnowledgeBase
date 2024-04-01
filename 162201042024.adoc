@@ -1,0 +1,8 @@
+:title: Searching files in VSCode
+:author: David Heaton
+:doctype: article
+= {title}
+
+A handy tip when searching my knowledge base when in VSCode: +
+
+You can press `Ctrl-Shift-F` to open a search bar that will search in all the files in the currently open directory.
