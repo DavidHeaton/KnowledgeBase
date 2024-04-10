@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../go-knowedge-base-tools"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../scripts"
+		}
+	],
+	"settings": {}
+}
